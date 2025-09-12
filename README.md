@@ -11,3 +11,7 @@ pod install
 ```
 
 Open MyApp.xcworkspace (not MyApp.xcodeproj).
+
+In Xcode, select the Project and the Target → Build Settings → search for ENABLE_USER_SCRIPT_SANDBOXING → set to No.
+
+Then you can build the project successfully.
