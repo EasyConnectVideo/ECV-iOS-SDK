@@ -12,6 +12,6 @@ pod install
 
 4- Open MyApp.xcworkspace (not MyApp.xcodeproj).
 
-5- In Xcode, select the Project and the Target → Build Settings → search for ENABLE_USER_SCRIPT_SANDBOXING → set to No.
+5- In Xcode, select the Project and the Target → Build Settings → search for 'User Script Sandboxing' → set to No.
 
 5- Then you can build the project successfully.
