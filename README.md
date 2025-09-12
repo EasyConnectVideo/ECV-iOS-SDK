@@ -1,6 +1,11 @@
 # ECV-iOS-SDK
 iOS SDK for EasyConnect Video
 
+0- if cocoapods not installed
+```
+sudo gem install cocoapods
+```
+
 1- Add the Podfile to your project, configure it accordingly (change 'MyApp' to your project's name).
 
 2- Make sure Xcode is closed.
