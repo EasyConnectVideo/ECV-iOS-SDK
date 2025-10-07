@@ -19,4 +19,4 @@ pod install
 
 5- In Xcode, select the Project and the Target → Build Settings → search for 'User Script Sandboxing' → set to No.
 
-5- Then you can build the project successfully.
+6- Then you can build the project successfully.
