@@ -12,7 +12,7 @@ sudo gem install cocoapods
 
 3- Then:
 ```
-pod install
+pod install --repo-update
 ```
 
 4- Open MyApp.xcworkspace (not MyApp.xcodeproj).
